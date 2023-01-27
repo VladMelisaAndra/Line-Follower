@@ -1,3 +1,5 @@
+Colleague repository: https://github.com/radumihai8/LineFollower/ 
+
 # LineFollower
 
 "The Police" - a line follower robot that uses a QTR-8A reflectance sensor (with only 6 sensors used) to "see" and follow a taped line. The robot is built to navigate and track lines with high accuracy and efficiency. The QTR-8A sensor provides reliable and precise measurements of the reflectance of the surface below the robot, allowing it to follow the line with precision. 
